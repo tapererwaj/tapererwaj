@@ -83,3 +83,14 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
 </p>
 	
+## ⏱️ Projects
+
+- ### Microsoft Power Platform
+
+	*Inorder to help organizations leverage their existing technologies such as Microsoft 365 and adapt a digital transformation strategy. I built the following **Cloud Solutions** using  Microsoft Flows and PowerApps including Model-driven apps, canvas apps and portals.*
+
+ 	- `Strategy Tracker App` -  Assist companies to execute their strategic plans.
+ 	- `Document Signing App`  - Allow digital signing and approval of documents.
+ 	- `Policies and Procedures App` - A central online document repository for policies, procedures e.t.c
+ 	- `Employee Innovative Ideas App` - Allow employees to contribute their innovative ideas.
+ 	- `Risk Companion App` - Raise employee awareness on risk management issues.
