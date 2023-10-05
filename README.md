@@ -3,7 +3,7 @@
 <h2 align="center">Software Developer</h2>
 
 <br>
-<p align="center" style="font-style: italic;">I am an aspiring mechanical engineer, certified in Azure and Microsoft Power Platform, with over 5 years of programming experience. I am an introvert focused on continuous personal development, reflection and learning. My ambition is to change the world through world class innovation. I am a firm believer in the notion that nothing in life is hard but rather challenging to a certain extent.</p>
+<p align="center" style="font-style: italic;">I am an aspiring mechanical engineer, certified in Azure and Microsoft Power Platform, with over 5 years of programming experience. I am an introvert focused on continuous personal development, reflection and learning. My ambition is to change the world through world class innovation.</p>
 
 <br>
 
